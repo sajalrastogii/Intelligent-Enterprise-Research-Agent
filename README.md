@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Intelligent Enterprise Research & Analytics Agent (IERAA)
 
 ## Executive Summary
