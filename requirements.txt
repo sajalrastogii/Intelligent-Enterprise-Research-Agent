@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+openai
+redis
+sentence-transformers
+faiss-cpu
+rank-bm25
+psycopg2-binary
+tiktoken
+numpy
+prometheus-client
+pytest
